@@ -8,6 +8,18 @@
 
 <div align="center">
 
+# 🦭 22 · Ita/Eng 🦭
+
+Self-taught gamedev since 2025 — Mostly 3D, currently still learning Blender
+
+*Seals lover • Emo & Midwest emo enjoyer • Kamen Rider fan*
+
+</div>
+
+---
+
+<div align="center">
+
 ### Tech Stack
 
 ![Godot](https://img.shields.io/badge/Godot-000000?style=flat&logo=godot-engine&color=%23000000&logoColor=%23fd7302)
